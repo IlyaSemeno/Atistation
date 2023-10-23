@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "z:\\Атестация\\64\\64.csproj": {}
+    "Z:\\Атестация\\64\\64.csproj": {}
   },
   "projects": {
-    "z:\\Атестация\\64\\64.csproj": {
+    "Z:\\Атестация\\64\\64.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\Атестация\\64\\64.csproj",
+        "projectUniqueName": "Z:\\Атестация\\64\\64.csproj",
         "projectName": "64",
-        "projectPath": "z:\\Атестация\\64\\64.csproj",
+        "projectPath": "Z:\\Атестация\\64\\64.csproj",
         "packagesPath": "C:\\Users\\semen\\.nuget\\packages\\",
-        "outputPath": "z:\\Атестация\\64\\obj\\",
+        "outputPath": "Z:\\Атестация\\64\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\semen\\AppData\\Roaming\\NuGet\\NuGet.Config"
